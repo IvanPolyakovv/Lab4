@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Ivan\source\repos\Lab4\Lab4\FileName.cpp(131,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Ivan\source\repos\Lab4\Lab4\FileName.cpp(132,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab4.vcxproj -> C:\Users\Ivan\source\repos\Lab4\x64\Debug\Lab4.exe
